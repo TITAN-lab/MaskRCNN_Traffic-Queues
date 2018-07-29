@@ -9,6 +9,9 @@ Follow Step 1 through 3:
 
 
 
+To extract Queue length parameters: Run QL_PMS2.py
+
+
 The Training Dataset including Annotated Data file to train the model is available at:  https://drive.google.com/drive/folders/103QkOOf8CUtxyfpGxNCR7YDxD5MKvdss
 
 
