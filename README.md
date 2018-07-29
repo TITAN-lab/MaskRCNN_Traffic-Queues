@@ -1,4 +1,4 @@
-# MaskRCNN_Traffic-Queues
+# Using Mask-RCNN to detect traffic queues
 Codes for implementing Mask-RCNN: A pixel level segmentation approach, for traffic queues detection.
 
 Follow Step 1 through 3:
