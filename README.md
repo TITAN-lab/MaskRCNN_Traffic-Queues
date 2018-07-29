@@ -22,4 +22,4 @@ The Validation Dataset including Annotated Data file to validate the model is av
 
 
 
-Image Dataset to test the accuracy of models:  https://drive.google.com/drive/folders/1Z84wwUTklBzrpYeouFtR9U17I64DXlcd
+Image Dataset to test the accuracy of models:  https://drive.google.com/open?id=1YTKwg0_0GQEN_wpKJhRfONkYUV8MRe8I
